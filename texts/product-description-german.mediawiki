@@ -1,0 +1,85 @@
+==Preview==
+<p>Die Welt, in der "Knights and Merchants" spielt, ist ein Pendant zur mitteralterlichen Epoche.</p>
+
+==Text==
+<p><strong>Das Spielszenario</strong><br />Die Welt, in der "Knights and Merchants" spielt, ist ein Pendant zur mitteralterlichen Epoche. Abgesehen von der frei erfundenen Geographie unserer Welt, sind alle Spielinhalte dem europ&auml;ischen, speziell dem angels&auml;chsischend, Mittelalter um 1200 n.C. entnommen. Erg&auml;nzende fantastische Element wie z.B. Fabelwesen weren nicht benutzt. Der Spieler schl&uuml;pft in die Rolle eines einfachen Hauptmanns, der unter dem Kommando des K&ouml;nigs dient. Durch eine Verschw&ouml;rung gegen den K&ouml;nig und dessen Reich, wird diesem Hauptmann (dem Spieler) die Verteidigung der letzten k&ouml;niglichen Provinz &uuml;bertragen. Bis auf dieses Land ist das ehemalige K&ouml;nigsreich in viele kleine F&uuml;rstent&uuml;mer und Grafschaften zerfallen. Nachdem die Gewalt &uuml;ber das ehemalige Reich verloren ist, wird der K&ouml;nig nun selbst in seiner Hauptstadt von feindlichen Armeen bedroht. Dies ist die Ausgangssituation, welche der Spieler bei Beginn des Spieles antrifft. Seine weitere Aufgabe ist die R&uuml;ckeroberung aller zum ehemaligen K&ouml;nigreich geh&ouml;renden Provinzen.<br /> <br /> <strong>Allgemeines &uuml;ber das Spielsystem<br /> </strong>Das Spiel "Knights and Merchants" kann als strategische Wirtschaftssimulation bezeichnet werden. Grunds&auml;tzlich stellt der Wirtschaftsteil das Hauptelement dieses in Echtzeit verlaufenden Spieles dar. Der Spieler kann mit Hilfe zahlreicher mittelalterlicher Geb&auml;ude, kombiniert mit den damals gebr&auml;uchlichen Produktionsg&uuml;tern, verschiedene Waren produzieren lassen. Er l&auml;&szlig;t Geb&auml;ude und Stra&szlig;en durch sein 'Leibeigenen' errichten und bewirtschaften. Die &ouml;konomischen Strukturen sind detailliert nachgebildet, wodurch jede produzierte Fertigware durch verschiedene Rohstoffe herstellt worden ist und dementsprechend zahlreiche Produktionst&auml;tten durchlaufen hat. All diese Herstellungssysteme sind detalliert und nachvollziehbar visualisiert und erm&ouml;glichen dem Spieler eine schnelle und zuverl&auml;ssige Kontrolle der Wirtschaft. Als Resultat aller produktiven T&auml;tigkeiten steht die Herstellung von Waffen und R&uuml;stungen. Erw&auml;hnenswert ist dabei die Logistik, die der Spieler durch die Strukur der Transportwege (Stra&szlig;en) bestimmt. Alle Waren m&uuml;ssen von Gehilfen zwischen den H&auml;usern transportiert werden wodurch die Stadtplanung die Produktionszeiten der Geb&auml;ude, also die Effizienz der Wirtschaft bestimmt. Auch hierbei wird dem Spieler die transportierte Ware grafisch angezeigt. Alle Spielfiguren haben ihr pers&ouml;nliches Einsatzgebiet und verrichten ihre Arbeit selbstst&auml;ndig. Auf jegliche Steuerung von Seiten des Spielers sind sie nicht angewiesen. Die M&ouml;glichkeiten des Spieler beschr&auml;nken sich auf indirekte Kommandos f&uuml;r die Errichtung von Geb&auml;uden, Stra&szlig;en, Kornfelder usw.. Ausschlie&szlig;lich die milit&auml;rischen Einheiten k&ouml;nnen unmittelbar vom Spieler kommandiert werden.</p>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="320" controls="true"> <source src="http://videos.fun4tux.ch/knights-trailer1-en.ogg"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<p><video width="320" controls="true"> <source src="http://videos.fun4tux.ch/knights-trailer2-en.ogg"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<hr />
+<p><strong>Allgemeine Informationen zum Spiel</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>12+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung</td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch</td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel</td>
+<td>Englisch (Deutsch, Franz&ouml;sisch und Spanisch w&auml;ren auch dabei, sind aber sehr schwierig zu installieren, da der Installer nicht korrekt funktioniert)<br /></td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/knights/">Demo f&uuml;r Knights and Merchants</a>, <a href="http://updates.fun4tux.ch/knights-demo/">Updates f&uuml;r die Demo</a><br /></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/knights/" target="_blank">Updates f&uuml;r Knights and Merchants</a></td>
+</tr>
+<tr>
+<td>Zustand</td>
+<td>fabrikneu</td>
+</tr>
+<tr>
+<td>Lieferumfang</td>
+<td>DVD und Anleitung in DVD-H&uuml;lle (keine Folie)<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Minimale Systemanforderungen</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>400 MHz x86 Prozessor</td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>Grafikkarte mit 16MB Ram und korrekt installierten, funktionsf&auml;higen Treibern</td>
+</tr>
+<tr>
+<td>Hauptspeicher</td>
+<td>200 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>450 MB<br /></td>
+</tr>
+<tr>
+<td>Soundkarte</td>
+<td>ALSA oder OSS kompatibel</td>
+</tr>
+<tr>
+<td>Laufwerk</td>
+<td>4 x CD Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>

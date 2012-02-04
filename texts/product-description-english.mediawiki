@@ -1,0 +1,85 @@
+==Preview==
+<p>The whole land has fallen into a state of chaos and now the final royal province is under siege by the armies of the rebel lords.</p>
+
+==Text==
+<p><br />After many battles, a former kingdom has been divided into many small principalities and     earldoms. The king's troops were pushed back into one last royal province, and the rulers     of the other provinces waged terrible, destructive wars against one another. The whole     land fell into a state of chaos and now the former royal capital itself is under siege by     the armies of the rebel lords. You belong to the last remaining group of loyal king's     men, and have been commanded to go to the king in view of the imminent attack.<br /> <br /> <strong>Game Scenario</strong><br /> Knights and Merchants recreates the era of the Middle Ages. Apart from the purely     fictitious geography of our world, all game elements and scenes are based on the European,     but more particularly, the Anglo-Saxon period, around 1200 A.D. We have not used imaginary     elements like, for example, fabled creatures. The player takes on the role of a ordinary     captain in the Palace Guard. A conspiracy against the king catapults the captain into a     situation where he finds himself responsible for the defense of the last royal province.     This is all that remains of the shattered kingdom, which has been split into numerous     small principalities and earldoms. And now even the king himself, ensconced in his     capital, is threatened by enemy armies. This is the starting point of your Middle Ages     adventure. Now you, the player, must win back all those provinces which once belonged to     your king.<br /> <br /> <strong>General info about the game system<br /> </strong>Knights and Merchants can be described as a strategic economy simulation. In the main,     the economics play a major role in this real-time action game. The player can manufacture     different products, making use of numerous buildings and producer goods of the Middle Ages     period. He can use his serfs to construct and maintain buildings and roads. The economical     structuring is very specific. You manufacture finished products using various raw     materials which go through your production processes. All these manufacturing systems are     highly detailed and visually understandable, enabling fast and dependable control of your     economy. One result of all your productive labors is the manufacture of weapons and armor.     But the logistics, too, are really worth a mention. You decide where and how merchandise     will be transported on the network of streets which you yourself have planned and     constructed. Your serfs transport all wares between buildings, so your town planning plays     a major role in production time per building, and , resulting from that, just how     efficient your economy as a whole is going to be. Transported goods are displayed     graphically. Each figure in the game has his/her own mission area and carries out     individual tasks independently. They don't depend on your commands or actions. You, the     player, only give indirect commands for the construction of buildings, streets, corn     fields, etc. However, you do have complete control of the military units.</p>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="320" controls="true"> <source src="http://videos.fun4tux.ch/knights-trailer1-en.ogg"></source> Your browser does not support the video tag! Go and get a <a href="http://www.mozilla-europe.org/de/firefox/">good one</a>!</video></p>
+<p><video width="320" controls="true"> <source src="http://videos.fun4tux.ch/knights-trailer2-en.ogg"></source> Your browser does not support the video tag! Go and get a <a href="http://www.mozilla-europe.org/de/firefox/">good one</a>!</video></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>12+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English (German, French, Spanish included, but difficult to install)<br /></td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/knights/">Demo for Knights and Merchants</a>, <a href="http://updates.fun4tux.ch/knights-demo/">Updates for the Demo</a><br /></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/knights/" target="_blank">Updates for Knights and Merchants</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>CD-Rom and manual in a DVD box (no packaging foil)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>400 MHz x86 Processor</td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Graphics card with 16 MB video memory</td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>200 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>450 MB<br /></td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>ALSA or OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>4 x CD Rom</td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>
